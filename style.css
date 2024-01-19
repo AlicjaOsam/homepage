@@ -1,0 +1,29 @@
+body {
+    background: rgb(188, 186, 186);
+}
+
+.mainHeader {
+    color: darkred;
+}
+
+.sectionHeader{
+    color: rgb(143, 64, 64);
+    background: rgb(133, 127, 127);
+    font-size: 20px;
+}
+
+.postepHeader{
+    color: darkred;
+}
+
+h2{
+    color: rgb(143, 64, 64);
+}
+
+p {
+    color: darkgreen;
+}
+
+#postepy{
+    background: white;
+}
